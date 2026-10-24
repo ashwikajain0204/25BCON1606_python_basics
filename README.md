@@ -26,7 +26,7 @@ python --version
 
 Peer Repository Review
 
-**Repository:** 
+**Repository:** https://github.com/ashwikajain0204/25BCON1606_python_basics.git
 i shared my repo with pranjali singh segar and she provided verifies two claims and essential fixes
 ## 1. Verify Two Claims
 
